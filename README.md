@@ -1,11 +1,4 @@
-~~This is Simple README 
-
-~~ Source SHARO_TH For Supergroups 
-
-+~~Developer By : @AOSEE_TH On Telegram ,
-
-To install on C9 your next steps
-
+طہريہقة تہنصيہب:heart_eyes: سہورسہ شہارو:kiss: ṩħäro :kiss:الہجہديہد الہاصدار الہاولہ :x::fire:
 
 
 #Step1 : writ this > in Terminal 
