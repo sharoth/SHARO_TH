@@ -1,4 +1,6 @@
-طہريہقة تہنصيہب:heart_eyes: سہورسہ شہارو:kiss: ṩħäro :kiss:الہجہديہد الہاصدار الہاولہ :x::fire:
+طہريہقة تہنصيہب
+:heart_eyes: سہورسہ شہارو
+:kiss: ṩħäro :kiss:الہجہديہد الہاصدار الہاولہ :x::fire:
 
 
 #Step1 : writ this > in Terminal 
